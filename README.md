@@ -28,7 +28,7 @@ brew install Kartik-007/flowprompt/flowprompt
 - 🔨 **Shipping small things** — building finished, public projects one at a time
 - 🧠 **Going deep on AI** — LLM internals, evals, agent architectures
 - 🏗️ **Pre-founding** — networking with builders, operators, and VCs in the AI space
-- 📸 **Documenting the process** — [follow along on Instagram]([https://x.com/ContextLTD](https://www.instagram.com/itskartik.mp4/))
+- 📸 **Documenting the process** — [follow along on Instagram](https://www.instagram.com/itskartik.mp4/)
 
 ---
 

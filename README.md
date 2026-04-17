@@ -1,4 +1,4 @@
-# Kartik Mehra
+# Hi, I'm Kartik 
 
 Full-stack developer based in NYC. Building toward founding something in AI.  
 Currently: shipping small, finished things in public.

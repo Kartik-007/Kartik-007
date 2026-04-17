@@ -1,13 +1,21 @@
-# Hi, I'm Kartik 
+# Hi, I'm Kartik
 
-Full-stack developer based in NYC. Building toward founding something in AI.  
-Currently: shipping small, finished things in public.
+📍 Mumbai ↔ NYC &nbsp;|&nbsp; 🤖 AI builder &nbsp;|&nbsp; 🚀 Aspiring founder
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+Building AI-powered tools and shipping in public. Day job in tech, nights and weekends figuring out what's worth building.
 
 ---
 
 ### Projects
 
-**[flowprompt](https://github.com/Kartik-007/flowprompt)** — macOS menu bar app for storing and instantly pasting prompts into any text field. Written in Swift. Install via Homebrew.
+**[flowprompt](https://github.com/Kartik-007/flowprompt)** — Lightweight macOS menu bar app for storing, organizing, and instantly pasting prompts into any text field.
 
 ```sh
 brew install Kartik-007/flowprompt/flowprompt
@@ -15,15 +23,23 @@ brew install Kartik-007/flowprompt/flowprompt
 
 ---
 
-### Stack
+### What I'm Doing
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- 🔨 **Shipping small things** — building finished, public projects one at a time
+- 🧠 **Going deep on AI** — LLM internals, evals, agent architectures
+- 🏗️ **Pre-founding** — networking with builders, operators, and VCs in the AI space
+- 📸 **Documenting the process** — [follow along on Instagram]([https://x.com/ContextLTD](https://www.instagram.com/itskartik.mp4/))
 
 ---
 
-### Find me
+### Philosophy
 
-[X / Twitter](https://x.com/ContextLTD) · [LinkedIn](https://linkedin.com/in/kartik-mehra-464108224)
+*Shipping beats perfect.* I build tools to solve my own problems, then share them with the world. The goal is to become a maximally efficient AI-powered builder first, then find the thing worth founding.
+
+---
+
+### Connect
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ContextLTD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-mehra-464108224)
+[![GitHub Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kartik-007)

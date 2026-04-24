@@ -21,6 +21,12 @@ Building AI-powered tools and shipping in public. Day job in tech, nights and we
 brew install Kartik-007/flowprompt/flowprompt
 ```
 
+**[spotify-cli-macos](https://github.com/Kartik-007/spotify-cli-macos)** — Scriptable, AI-native Spotify CLI for library management and automation. Manage playlists, dedupe tracks, and merge collections from the terminal — or talk to your Spotify through Claude Desktop via MCP.
+
+```sh
+git clone https://github.com/Kartik-007/spotify-cli-macos.git
+```
+
 ---
 
 ### What I'm Doing
